@@ -103,7 +103,28 @@ Create assignment for automating WordPress with N8N
   + f5 wordpress để thấy bài viết mới đã lên sóng.
 + Chụp ảnh quá trình thao tác/cấu hình/các kết quả trung gian đạt được
 + Nhận xét thành quả đạt được!!!
-yesterday
+
+<img width="1902" height="892" alt="Screenshot 2026-05-23 131843" src="https://github.com/user-attachments/assets/18d7eb6c-3f12-4bd5-8d82-705ce8278a2c" />
+
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/82dad49a-ac4b-4a44-89c9-9c9d4473475f" />
+## Bước 1: Docker ps
+<img width="1478" height="442" alt="image" src="https://github.com/user-attachments/assets/beb4efd4-88c6-4ceb-98a6-8a21b78c49b0" />
+
+<img width="1902" height="892" alt="Screenshot 2026-05-23 131843" src="https://github.com/user-attachments/assets/18d7eb6c-3f12-4bd5-8d82-705ce8278a2c" />
+## Bước 2: File docker-compose.yml
+<img width="1459" height="1003" alt="image" src="https://github.com/user-attachments/assets/dca88c2e-82ed-4f98-90c3-054324fb7c24" />
+
+## Bước 3: Giao diện WordPress
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/82dad49a-ac4b-4a44-89c9-9c9d4473475f" />
+## Bước 4: Giao diện PhpMyAdmin
+<img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/5fcf64c3-24b4-4fa3-bd18-d52b25718c19" />
+
+## Bước 5: Database trước khi cài WP
+## Bước 6: Database sau khi cài WP
+## Bước 7: Workflow n8n
+## Bước 8: Telegram bot
+## Bước 9: Bài đăng tự động
+## Bước 10: Log container hoạt động
 
 Update btvn_04.md
 demo kết quả cuối cùng:
