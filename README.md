@@ -103,10 +103,7 @@ Create assignment for automating WordPress with N8N
   + f5 wordpress để thấy bài viết mới đã lên sóng.
 + Chụp ảnh quá trình thao tác/cấu hình/các kết quả trung gian đạt được
 + Nhận xét thành quả đạt được!!!
-
-<img width="1902" height="892" alt="Screenshot 2026-05-23 131843" src="https://github.com/user-attachments/assets/18d7eb6c-3f12-4bd5-8d82-705ce8278a2c" />
-
-<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/82dad49a-ac4b-4a44-89c9-9c9d4473475f" />
+# BÀI LÀM
 ## Bước 1: Docker ps
 <img width="1478" height="442" alt="image" src="https://github.com/user-attachments/assets/beb4efd4-88c6-4ceb-98a6-8a21b78c49b0" />
 
@@ -119,18 +116,14 @@ Create assignment for automating WordPress with N8N
 ## Bước 4: Giao diện PhpMyAdmin
 <img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/5fcf64c3-24b4-4fa3-bd18-d52b25718c19" />
 
-## Bước 5: Database trước khi cài WP
-## Bước 6: Database sau khi cài WP
-## Bước 7: Workflow n8n
-## Bước 8: Telegram bot
-## Bước 9: Bài đăng tự động
-## Bước 10: Log container hoạt động
+## Bước 5: Workflow n8n
+https://n8n.nguyetlinh.id.vn/workflow/CxDJvSFE9l7z8YmV
+<img width="1889" height="970" alt="image" src="https://github.com/user-attachments/assets/61d1b5e9-e210-44fc-984a-5f5ee914e02d" />
 
-Update btvn_04.md
-demo kết quả cuối cùng:
-chát với bot:
-<img width="471" height="264" alt="image" src="https://github.com/user-attachments/assets/7c439503-63b4-4529-bbec-78fa1d4933d6" />
-flow automation của n8n (nhìn bên ngoài):
-<img width="1319" height="389" alt="image" src="https://github.com/user-attachments/assets/abbdc5af-952f-4d50-8fba-0cafc7334212" />
-bài tự động đăng trên wp:
-<img width="750" height="817" alt="image" src="https://github.com/user-attachments/assets/4f7c0cec-292f-4973-9eb0-1534189cdb18" />
+## Bước 6: Telegram bot
+<img width="1080" height="2316" alt="image" src="https://github.com/user-attachments/assets/cbcf5e79-0065-4f2a-ae85-d17bf8029e40" />
+
+## Bước 7: Bài đăng tự động
+<img width="1900" height="908" alt="Screenshot 2026-05-25 201241" src="https://github.com/user-attachments/assets/e22b9e9c-14f4-4763-8a27-a6157e2a57bd" />  
+## Bước 8: Log container hoạt động
+<img width="1645" height="801" alt="image" src="https://github.com/user-attachments/assets/99de4ee1-e25e-4b8f-80a0-3b8ddbb6ac1a" />
